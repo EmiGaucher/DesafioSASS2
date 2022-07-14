@@ -1,2 +1,2 @@
 # DesafioSASS
-Desafio que muestra lo aprendido en SASS1
+Desafio que muestra lo aprendido en SASS2
